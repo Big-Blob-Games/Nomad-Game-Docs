@@ -6,6 +6,19 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2026-01-13T21:11:27.904Z",
+      "total": 872,
+      "drafts": {
+        "Narrative/Episode 1/Index.md": {
+          "total": 872,
+          "scenes": {
+            "Awakening": 872,
+            "Wastes Crossing": 0
+          }
+        }
+      }
+    },
+    {
       "start": "2026-01-08T20:08:32.576Z",
       "total": 0,
       "drafts": {

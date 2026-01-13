@@ -4,6 +4,9 @@ longform:
   title: Episode 1 - RUST
   workflow: Default Workflow
   sceneFolder: /
-  scenes: []
-  ignoredFiles: []
+  scenes:
+    - Awakening
+    - Wastes Crossing
+  ignoredFiles:
+    - Untitled
 ---
